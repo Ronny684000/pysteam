@@ -1,0 +1,2 @@
+SORTING_OPTION_NAME_RU="убыванию цены"
+SORTING_OPTION_NAME_EN="Highest Price"
